@@ -1,0 +1,25 @@
+block content
+  h2 Add New Student
+  form(action="/create", method="POST")
+    label Employee id:
+    input(type="number", name="E_ID", required)
+    br
+    label Employee name :
+    input(type="text", name="E_name", required)
+    br
+    label Employee email:
+    input(type="text", name="E_email", required)
+    br
+    label Employee number:
+    input(type="number", name="E_Number", required)
+    br
+    label Employee gender:
+    input(type="text", name="E_gender", required)
+    br
+    label Employee dept:
+    input(type="text", name="E_dept", required)
+    br
+    label Employee location:
+    input(type="text", name="E_location", required)
+    br
+    button(type="submit") Add
