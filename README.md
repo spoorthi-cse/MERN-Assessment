@@ -15,4 +15,3 @@ A full-stack web application where users can share, browse, and discover recipes
 **Frontend:** React, Axios, CSS  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB (Mongoose)  
-l
