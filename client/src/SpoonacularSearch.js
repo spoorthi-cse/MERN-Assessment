@@ -13,7 +13,7 @@ const SpoonacularSearch = () => {
           params: {
             query,
             number: 5,
-            apiKey: '0e976a8fef72424c8d41f08b3180f723', // 🔁 Replace this with your real key
+            apiKey: 'api_key', // 🔁 Replace this with your real key
           },
         }
       );
